@@ -1,0 +1,8 @@
+pandas
+numpy
+pyyaml
+python-dotenv
+streamlit
+matplotlib
+plotly
+pydantic

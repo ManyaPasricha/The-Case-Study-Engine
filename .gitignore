@@ -1,0 +1,28 @@
+﻿.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+Project_Drishti_Library/
+
+outputs/evidence_chunks.json
+outputs/story_spine/
+outputs/results_sheet/
+outputs/risk_analysis/
+outputs/verification_report.json
+
+*.log
+
+# Confidential library archive
+Project_Drishti_Library.zip
+
+# Temporary and diagnostic scripts
+tempCodeRunnerFile.python
+
+# Generated outputs - review before publishing
+outputs/
+
+# Local environment
+.streamlit/secrets.toml
